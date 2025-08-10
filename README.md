@@ -25,8 +25,6 @@
 ## 📜 License
 This project is licensed under the MIT License – feel free to use and modify it.
 
-## 🤝 Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## 📧 Contact
 Created by DEEPIKA - https://github.com/Deepika-saravanan – feel free to reach out!
